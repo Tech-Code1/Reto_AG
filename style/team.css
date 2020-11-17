@@ -14,9 +14,28 @@ a:hover {
 
 .mini-content-header {
   background: rgba(221, 214, 214, 0.787);
-  bottom: 448px;
+  bottom: 465px;
 }
 
 header {
   height: 400px;
+}
+
+.color-h4 {
+  color: rgb(20, 167, 130) !important;
+}
+
+.parrafo-team {
+  color: rgb(158, 157, 157);
+}
+
+.parrafo-team,
+.parrafos-section-1 {
+  font-size: 18px;
+}
+
+.width-section-1 {
+  width: 35%;
+  background: rgb(204, 204, 204);
+  border-radius: 10px;
 }
