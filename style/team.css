@@ -1,0 +1,13 @@
+nav {
+  background: rgb(20, 167, 130);
+  color: rgb(246, 246, 246);
+}
+
+a {
+  color: rgb(246, 246, 246) !important;
+}
+
+a:hover {
+  color: rgb(80, 80, 218) !important;
+  transition: 0.25s;
+}
