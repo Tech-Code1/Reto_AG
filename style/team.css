@@ -11,3 +11,12 @@ a:hover {
   color: rgb(80, 80, 218) !important;
   transition: 0.25s;
 }
+
+.mini-content-header {
+  background: rgba(221, 214, 214, 0.787);
+  bottom: 448px;
+}
+
+header {
+  height: 400px;
+}
